@@ -1,0 +1,9 @@
+Perintah utama:
+
+1. npm install
+2. npm run build
+3. npx cap add android
+4. npx cap sync android
+5. npx cap open android
+
+Setelah Android Studio terbuka, Build > Build APK(s).
